@@ -6,3 +6,6 @@ datasets
 *.log
 *.pt
 *.zip
+*.npy 
+*.pt
+*.parquet
